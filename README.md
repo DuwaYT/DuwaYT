@@ -25,9 +25,22 @@
 >	<b>𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙎</b><br>
 > [![](https://github-readme-stats.vercel.app/api/top-langs?username=duWAYT&layout=compact&langs_count=8&theme=midnight-purple)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
 [![Commits](https://github-readme-stats.vercel.app/api?username=DuwaYT&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)<br>
-
-
-
+>
+>	<b>𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎</b><br>
+> <div width="100%" align="center">
+<a align="left" href="https://github.com/DuwaYT/Zlapnir-Nuker" title="Zlapnir-Nuker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DuwaYT&repo=Zlapnir-Nuker&theme=midnight-purple"></a><a align="right" href="https://github.com/DuwaYT/CobraComparator" title="CobraComparator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DuwaYT&repo=CobraComparator&theme=midnight-purple"></a>
+  
+<a align="left" href="https://github.com/DuwaYT/WebSande" title="WebSande">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DuwaYT&repo=WebSande&theme=midnight-purple"><a align="right" href="https://github.com/DuwaYT/DuwaYT" title="DuwaYT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DuwaYT&repo=DuwaYT&theme=midnight-purple"></a>
+</a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;</p>    
 
 ---  
