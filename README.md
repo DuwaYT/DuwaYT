@@ -11,10 +11,8 @@
 >
 >  <a href="https://github.com/DuwaYT">
 >    <img src="https://lanyard.cnrad.dev/api/794917831258800158"/>
->     </a>
->   <a href="https://github.com/DuwaYT">
-> <img src="https://discord.c99.nl/widget/theme-6/794917831258800158.png"
->
+>     </a> 
+>  
 >
 ><br><br>
 > 	<b>𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎</b>
