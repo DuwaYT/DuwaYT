@@ -1,6 +1,6 @@
 > # **𝘿 𝙐 𝙒 𝘼**<br>
 > [![](https://komarev.com/ghpvc/?username=DuwaYT)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
-> [![discord](https://discord.com/api/guilds/267624335836053506/widget.png)](https://pornhub.com)
+> [![discord](https://discord.com/api/guilds/267624335836053506/widget.png)](discord.gg/duwa)
 > [![YouTube](https://img.shields.io/badge/-D%20U%20W%20A%20-000000?style=flat&logo=youtube)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
 > [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
 > [![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)](https://www.youtube.com/channel/UC830rjP727c4fFZ0hX_cKww)
